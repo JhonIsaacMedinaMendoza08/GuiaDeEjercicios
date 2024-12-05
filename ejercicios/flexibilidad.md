@@ -8,3 +8,11 @@ Aumenta la movilidad y la amplitud de movimiento.
 Ayuda a prevenir lesiones al reducir la tensión muscular.
 Mejora la postura y el equilibrio.
 Facilita la recuperación después de otros tipos de ejercicio.
+
+## Instrucciones
+Calentamiento: Realiza una actividad ligera (como caminar o saltar suavemente) durante 5 minutos para preparar los músculos.
+Ejercicios de Flexibilidad:
+Elige estiramientos dinámicos o estáticos para cada grupo muscular principal (piernas, espalda, brazos, core).
+Mantén cada estiramiento estático durante 15-30 segundos sin rebotes.
+Si realizas estiramientos dinámicos, mueve las articulaciones en su rango completo de manera controlada.
+Frecuencia: Dedica de 10 a 15 minutos diarios a trabajar la flexibilidad o incorpóralos al final de tus entrenamientos.
