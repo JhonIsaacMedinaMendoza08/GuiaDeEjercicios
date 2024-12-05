@@ -21,3 +21,10 @@ Ritmo constante: Pedaleo suave a moderado para mejorar la resistencia.
 Intervalos: Alterna entre 1-2 minutos de pedaleo intenso y 2-3 minutos suaves para ganar fuerza y resistencia.
 Subidas: Simula colinas aumentando la resistencia o pedaleando en terreno inclinado.
 Enfriamiento: Termina con 5-10 minutos de pedaleo suave y estiramientos para las piernas, espalda y cuello.
+
+## Consejos
+Mantén una postura adecuada: espalda recta y codos ligeramente flexionados.
+Hidrátate antes, durante y después de la sesión.
+Incrementa la intensidad progresivamente para evitar lesiones.
+Si estás al aire libre, respeta las normas de tránsito y usa luces si circulas en horarios con poca visibilidad.
+Para mayor comodidad, considera usar pantalones acolchados o un asiento ergonómico.
