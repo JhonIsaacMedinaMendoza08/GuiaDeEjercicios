@@ -16,3 +16,9 @@ Selecciona un ejercicio por grupo muscular (por ejemplo, sentadillas para pierna
 Realiza 3-4 series de 8-12 repeticiones con un peso que te desafíe pero te permita mantener una buena técnica.
 Descansa entre 30 segundos y 1 minuto entre series.
 Enfriamiento: Finaliza con estiramientos específicos para los músculos trabajados durante al menos 5 minutos.
+
+## Consejos
+Mantén una técnica adecuada para evitar lesiones. Si tienes dudas, consulta a un profesional.
+Aumenta el peso progresivamente para seguir desafiando tus músculos.
+Descansa al menos 48 horas entre sesiones para un mismo grupo muscular.
+Escucha a tu cuerpo y detente si sientes dolor inusual.
