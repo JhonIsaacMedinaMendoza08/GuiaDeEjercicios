@@ -23,3 +23,10 @@ Intervalos: Nada rápido durante 1-2 minutos, seguido de 2-3 minutos a ritmo sua
 Técnica: Dedica tiempo a perfeccionar tu técnica, usando tablas o pull buoys si es necesario.
 Enfriamiento:
 Nada lentamente durante 5-10 minutos y finaliza con estiramientos para cuello, brazos y piernas.
+
+## Consejos
+Respira de forma regular y relajada para evitar fatiga prematura.
+Mantén una técnica adecuada: prioriza calidad sobre velocidad.
+Hidrátate, aunque no sientas sed, ya que también pierdes líquidos en el agua.
+Si eres principiante, considera tomar clases para aprender los estilos básicos y mejorar tu técnica.
+Sé constante: nadar 2-3 veces por semana puede marcar una gran diferencia en tu condición física.
