@@ -16,3 +16,9 @@ Elige estiramientos dinámicos o estáticos para cada grupo muscular principal (
 Mantén cada estiramiento estático durante 15-30 segundos sin rebotes.
 Si realizas estiramientos dinámicos, mueve las articulaciones en su rango completo de manera controlada.
 Frecuencia: Dedica de 10 a 15 minutos diarios a trabajar la flexibilidad o incorpóralos al final de tus entrenamientos.
+
+## Consejos
+Realiza los ejercicios en un lugar cómodo y libre de distracciones.
+Respira profundamente mientras te estiras, exhalando mientras profundizas en cada posición.
+No fuerces los movimientos, especialmente si sientes dolor.
+Sé constante: la flexibilidad mejora gradualmente con práctica regular.
