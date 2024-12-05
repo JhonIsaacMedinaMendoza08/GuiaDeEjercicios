@@ -16,3 +16,9 @@ Realiza movimientos lentos y controlados, prestando atención a la alineación y
 Completa 2-3 series de 8-12 repeticiones por ejercicio, dependiendo de tu nivel.
 Concéntrate en activar el core durante todos los ejercicios.
 Enfriamiento: Finaliza con estiramientos suaves para relajar los músculos trabajados y mejorar la flexibilidad.
+
+## Consejos
+Mantén un control constante: los movimientos deben ser precisos y fluidos, evitando la velocidad.
+Respira de manera sincronizada con cada movimiento (exhala al esfuerzo, inhala al regresar).
+Usa una superficie cómoda, como una esterilla, y considera accesorios como bandas de resistencia o pelotas de Pilates para añadir variedad.
+Adapta los ejercicios a tu nivel y aumenta la dificultad de forma progresiva.
