@@ -17,3 +17,9 @@ Realiza 3-4 circuitos de 4-6 ejercicios funcionales.
 Ejecuta cada ejercicio durante 30-60 segundos o entre 8-12 repeticiones.
 Descansa entre 30 segundos y 1 minuto entre ejercicios.
 Enfriamiento: Finaliza con estiramientos para los grupos musculares trabajados durante 5-10 minutos.
+
+## Consejos
+Prioriza la técnica sobre la velocidad o el peso para evitar lesiones.
+Usa equipos como pesas, kettlebells, bandas elásticas o TRX, pero adapta los ejercicios según tu nivel.
+Aumenta progresivamente la intensidad o complejidad de los ejercicios a medida que mejoras.
+Combina movimientos de fuerza, equilibrio y cardio para una rutina completa y efectiva.
