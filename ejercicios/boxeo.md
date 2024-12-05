@@ -24,3 +24,10 @@ Entrenamiento de fuerza: Incorpora ejercicios funcionales como flexiones, sentad
 Movimientos de pies: Realiza desplazamientos laterales y diagonales para mejorar la agilidad.
 Enfriamiento:
 Finaliza con 5 minutos de shadowboxing ligero y estiramientos para brazos, hombros y piernas.
+
+## Consejos
+Mantén una postura adecuada: pies ligeramente separados, manos al nivel del mentón y codos protegidos.
+Practica la técnica antes de añadir velocidad o potencia.
+Usa movimientos de pies para mantenerte ágil y equilibrado.
+No olvides hidratarte y descansar entre sesiones intensas.
+Si eres principiante, considera tomar clases para aprender las bases del boxeo.
