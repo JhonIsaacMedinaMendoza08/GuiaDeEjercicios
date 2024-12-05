@@ -20,3 +20,10 @@ WOD (Workout of the Day):
 Realiza un circuito de alta intensidad combinando diferentes ejercicios. El objetivo es completar la mayor cantidad de rondas (AMRAP) o terminar el circuito en el menor tiempo posible (For Time).
 Enfriamiento:
 Dedica 5-10 minutos a ejercicios de estiramiento y movilidad para relajar los músculos trabajados.
+
+## Consejos
+Escalabilidad: Todos los ejercicios pueden adaptarse a tu nivel; reduce pesos, repeticiones o modifica movimientos si es necesario.
+Técnica: Prioriza una ejecución correcta sobre la velocidad o el peso para evitar lesiones.
+Hidratación y Descanso: Hidrátate antes, durante y después del entrenamiento, y asegúrate de descansar lo suficiente entre sesiones intensas.
+Variedad: Aprovecha la diversidad de ejercicios en CrossFit para mantener la motivación y trabajar diferentes áreas del cuerpo.
+Comunicación: Consulta con tu coach para ajustar las rutinas y progresar de manera segura.
